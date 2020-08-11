@@ -72,3 +72,62 @@ code {
   text-justify: inter-word;
   font-size: 12px;
 }
+
+.ingredients {
+  padding: 5px 20px;
+  width: auto;
+}
+
+.ingredients h2 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  letter-spacing: 5px;
+  font-weight: bolder;
+  color: rgb(29, 29, 29);
+}
+.displayMenu {
+  display: flex;
+}
+
+/* .menuitems {
+  display: grid;
+} */
+
+.menuItems h4 {
+  padding-top: 15px;
+  margin: 0px;
+}
+
+.menuItems li {
+  display: inline-block;
+  height: 100%;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.menuItems li:nth-child(even) {
+  font-size: 7px;
+  color: #000000;
+  float: right;
+  padding-right: 5px;
+  padding-top: 10px;
+}
+.menuItems ul {
+  padding: 0px;
+  margin: 0px;
+}
+
+.menuDetails {
+  padding-left: 20px;
+  padding-right: 50px;
+}
+.menuDetails p {
+  font-size: 10px;
+  margin: 1px;
+}
+
+.menuLeft {
+  margin-right: 40px;
+}
+.menuRight {
+  margin-left: 40px;
+}
