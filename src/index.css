@@ -44,7 +44,7 @@ body {
 #top {
   font-family: "Montserrat";
   text-align: center;
-  position: fixed;
+  position: absolute;
   bottom: 15px;
   color: rgb(0, 0, 0);
   font-size: 15px;
@@ -54,7 +54,7 @@ body {
 #bottom {
   font-family: "Montserrat";
   text-align: center;
-  position: fixed;
+  position: absolute;
   bottom: 0px;
   color: rgb(0, 0, 0);
   font-size: 15px;
