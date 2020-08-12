@@ -201,14 +201,15 @@ body {
 
 .directions-list {
   display: flex;
-  padding-bottom: 20px;
+  padding-bottom: 15px;
 }
 
 .directions-list h2 {
-  font-size: 20px;
+  font-size: 15px;
   padding-left: 10px;
   padding-bottom: 10px;
   margin: 0px;
+  letter-spacing: normal;
 }
 .directions-list p {
   font-size: 12px;
